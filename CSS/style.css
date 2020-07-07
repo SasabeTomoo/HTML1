@@ -136,8 +136,12 @@ ul.top_menu {
   width: 150px;
 }
 
-contact-submit {
-  background-color: #c9c9c9;
+.contact-submit {
+  margin;0px 400px;
+  background-color: #0099FF;
+  color: white;
+  width: 60px;
+  font-size: 1.5rem
 }
 
 .contact-submit:hover{
@@ -150,9 +154,6 @@ contact-submit {
 
 .
 
-.contact-submit {
-  margin;0px 400px;
-}
 
 .th1 {
   text-align: right;
